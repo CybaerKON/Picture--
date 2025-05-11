@@ -1,5 +1,5 @@
 # Picture-- 
-!(Description/iconic.jpg) 
+![Icon](Description/iconic.jpg) 
 一个简洁高效的图片压缩工具，提供灵活的尺寸调整和文件大小控制，支持批量处理与智能重命名。
 
 ![GUI截图](Description/image.png) 
